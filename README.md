@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Coder, Welcome to My Page. I'm Alhans👋
 
 <!--
 **alhans27/alhans27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **React.js, Next.js, Unipaas** and many more 🔥🔥❤️‍🔥
