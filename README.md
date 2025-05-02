@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **React.js, Next.js, Unipaas** and many more 🔥🔥❤️‍🔥
+- 🌱 I’m currently learning **React.js with Next.js, Unipaas, Wordpress, Web Development** and many more 🔥🔥❤️‍🔥
